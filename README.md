@@ -67,11 +67,7 @@ Feel free to fork and submit pull requests for improvements or new features!
 This project is intended for educational and professional use within PwC and contributors under the license specified in this repository.
 
 👤 Author
-Developed by [Your Name]
-Contact: [your-email@example.com]
+Developed by Anurag Saxena
+Contact: saxena.elite9171@gmail.com
 
-Total Calls by Hour
-
-Total Calls by Day Name
-
-Filters: Interactive filters to segment and analyze data by different dimensions.
+ 
